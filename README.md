@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anndreww
-- 👀 I’m interested in social media and web design
+- 👀 I’m interested in social media marketing and web design
 
 <!---
 anndreww/anndreww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
